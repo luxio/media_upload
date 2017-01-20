@@ -1,2 +1,8 @@
-# media_upload
-DrupalGap Modul for uploading media
+# Media Upload
+
+A DrupalGap Module for uploading media files. 
+
+## Installation
+
+## Configuration
+
